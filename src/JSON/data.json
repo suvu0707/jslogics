@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "name": "yy",
+      "age": "55",
+      "id": 5
+    },
+    {
+      "name": "DFGG",
+      "age": "88",
+      "id": 6
+    },
+    {
+      "age": "444",
+      "name": "fsxd",
+      "id": 7
+    },
+    {
+      "name": "wsw",
+      "age": "ww",
+      "id": 10
+    },
+    {
+      "name": "asa",
+      "age": "sds",
+      "id": 11
+    },
+    {
+      "name": "wew",
+      "age": "swd",
+      "id": 12
+    },
+    {
+      "name": "ewe",
+      "age": "23",
+      "id": 13
+    },
+    {
+      "name": "dddd",
+      "age": "56",
+      "id": 14
+    }
+  ],
+  "itemlist": [
+    {
+      "name": "Suvendu",
+      "price": "454",
+      "qty": "5",
+      "details": "ssxx",
+      "photo": "hggh",
+      "id": 1
+    }
+  ],
+  "logindata": [
+    {
+      "username": "ddhg",
+      "pwd": "sdd12"
+    },
+    {
+      "username": "wsdd",
+      "pwd": "8ui88"
+    },
+    {
+      "username": "juggk",
+      "pwd": "sdd12"
+    },
+    {
+      "username": "edftj",
+      "pwd": "hgh457"
+    }
+  ]
+}
